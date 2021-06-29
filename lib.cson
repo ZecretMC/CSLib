@@ -1,0 +1,4 @@
+'main':
+    'type': 'library'
+    'document':
+        'xml.compat': 'lib32.xml'
