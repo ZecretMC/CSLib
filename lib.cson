@@ -1,4 +1,6 @@
 'main':
     'type': 'library'
     'document':
-        'xml.compat': 'lib32.xml'
+        'xml':
+            'compat': 'lib32.xml'
+            'taglist_required': ['Document', 'MainDocument', 'Override']
