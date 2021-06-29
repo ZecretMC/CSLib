@@ -1,6 +1,18 @@
 <Document>
     <MainDocument>
+        <Data name="Status.Version" pathsrc="Document.SecondaryDocument"/>
+        <CMDList>
+            <Data name="Status.Version" pathsrc="Document.SecondaryDocument"/>
+        </CMDList>
     </MainDocument>
+    <SecondaryDocument>
+        <Status>
+            <Version>
+                <Data name="beta" id="options" stored="beta"/>
+                <Data name="alpha" id="options" stored="alpha"/>
+            </Version>
+        </Status>
+    </SecondaryDocument>
     <Override>
     </Override>
 </Document>
