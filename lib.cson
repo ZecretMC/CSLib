@@ -1,6 +1,10 @@
 'main':
     'type': 'library'
     'document':
+        'path': 'current_dir'
         'xml':
             'compat': 'lib32.xml'
             'taglist_required': ['Document', 'MainDocument', 'Override']
+            'selected_tag':
+                'read': 'MainDocument'
+                'override': 'Override'
