@@ -1,0 +1,2 @@
+# CSLib
+ My CoffeeScript Library
